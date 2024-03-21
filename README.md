@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 # Hey, I'm Gonçalo Ferreira! 👋
 
 ## About Me
-🎓 **I'm a Master's student in Software Engineering** at Universidade de Coimbra, deeply engrossed in refining my craft. With a backbone in Computer Science, my academic journey is a quest for innovation and excellence in the software realm.
+🎓 **I'm a Master's student in Software Engineering** at Universidade de Coimbra, deeply engrossed in refining my craft. I aim to blend my academic knowledge with industry practices, actively seeking to learn from the hands-on challenges and collaborations in professional settings.
 
-🌐 While my heart beats for all things software, I'm drawn to the art and science of Web Development, aspiring to master **Full Stack Development**. It's not just about coding for me—it's about building bridges between ideas and reality.
+🌐 While my heart beats for all things software, I'm currently drawn to the art and science of Web Development, aspiring to master **Full Stack Development**. Despite this current focus, I'm always curious about the various areas in Software Engineering.
 
 ## Interests
 🏀 Off the keyboard, I'm either shooting hoops or cheering on my favorite football team. ⚽️

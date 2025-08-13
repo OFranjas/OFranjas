@@ -17,21 +17,28 @@ Here are some ideas to get you started:
 # Hey, I'm Gonçalo Ferreira! 👋
 
 ## About Me
-🎓 **I'm a Master's student in Software Engineering** at Universidade de Coimbra, deeply engrossed in refining my craft. I aim to blend my academic knowledge with industry practices, actively seeking to learn from the hands-on challenges and collaborations in professional settings.
+🎓 I hold a **Master’s degree in Software Engineering** from Universidade de Coimbra.  
 
-🌐 While my heart beats for all things software, I'm currently drawn to the art and science of Web Development, aspiring to master **Full Stack Development**. Despite this current focus, I'm always curious about the various areas in Software Engineering.
+I have solid experience in **Web Development** and **Full Stack Engineering**, and I’m always curious to explore other areas of **Software Engineering**, including topics related to **AI** and innovative problem-solving.
 
-## Interests
-🏀 Off the keyboard, I'm either shooting hoops or cheering on my favorite football team. ⚽️
-
-🕹️ And when it's time to unwind, you'll find me lost in the world of video games or planning the next great adventure with friends. 🌍
+## Currently
+🔭 Working on personal projects and exploring new tech ideas.  
+🌱 Learning Japanese and building a consistent fitness routine.  
+💬 Happy to talk about software engineering and emerging technologies.
 
 ## Skills
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB)
+![Quarkus](https://img.shields.io/badge/Quarkus-%230072C6.svg?&style=for-the-badge&logo=quarkus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Contact Me
-🚀 **I'm on the lookout for exciting opportunities and collaborations** that challenge me and push the boundaries of what's possible.
+📧 **Email**: [gfranjaferreira@gmail.com](mailto:gfranjaferreira@gmail.com)  
+🔗 **LinkedIn**: [Gonçalo Franja Ferreira](https://www.linkedin.com/in/gon%C3%A7alo-franja-ferreira/)  
 
-📧 **Email**: [gfranjaferreira@gmail.com](mailto:gfranjaferreira@gmail.com)
-
-🔗 **LinkedIn**: [Gonçalo Franja Ferreira](https://www.linkedin.com/in/gon%C3%A7alo-franja-ferreira/)
+💡 *Feel free to explore some of my projects below!*

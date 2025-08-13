@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 
 I have experience in **Web Development** and **Full Stack Engineering**, and I’m always curious to explore other areas of **Software Engineering**, including topics related to **AI** and innovative problem-solving.
 
-## Currently
-🚀 Working on personal projects and exploring new tech ideas.  
-🌱 Learning Japanese and building a consistent fitness routine.  
-💬 Happy to talk about software engineering and emerging technologies.
-
 ## Skills
 
 Over the years, through my **Master’s degree**, **personal projects**, and **professional experience**,  
@@ -70,6 +65,11 @@ I’ve worked with a variety of technologies, tools, and practices across the so
 **Concepts & Practices**  
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=api&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-007ACC?style=for-the-badge&logo=atlassian&logoColor=white)
+
+## Currently
+🚀 Working on personal projects and exploring new tech ideas.  
+🌱 Learning Japanese and building a consistent fitness routine.  
+💬 Happy to talk about software engineering and emerging technologies.
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gfranjaferreira@gmail.com)

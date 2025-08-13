@@ -38,7 +38,7 @@ I have solid experience in **Web Development** and **Full Stack Engineering**, a
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Contact Me
-📧 **Email**: [gfranjaferreira@gmail.com](mailto:gfranjaferreira@gmail.com)  
-🔗 **LinkedIn**: [Gonçalo Franja Ferreira](https://www.linkedin.com/in/gon%C3%A7alo-franja-ferreira/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gfranjaferreira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gon%C3%A7alo-franja-ferreira/)
 
 💡 *Feel free to explore some of my projects below!*

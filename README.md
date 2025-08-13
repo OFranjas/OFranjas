@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hey, I'm Gonçalo! 👋
+# Gonçalo Ferreira — Software Engineer
 
 ## About Me
 🎓 I hold a **Master’s degree in Software Engineering** from Universidade de Coimbra.  

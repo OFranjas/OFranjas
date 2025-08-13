@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I have solid experience in **Web Development** and **Full Stack Engineering**, and I’m always curious to explore other areas of **Software Engineering**, including topics related to **AI** and innovative problem-solving.
 
 ## Currently
-🔭 Working on personal projects and exploring new tech ideas.  
+🚀 Working on personal projects and exploring new tech ideas.  
 🌱 Learning Japanese and building a consistent fitness routine.  
 💬 Happy to talk about software engineering and emerging technologies.
 
@@ -39,8 +39,7 @@ I have solid experience in **Web Development** and **Full Stack Engineering**, a
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gfranjaferreira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gon%C3%A7alo-franja-ferreira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gon%C3%A7alo-franja-ferreira/)  
+📫 gfranjaferreira&#64;gmail&#46;com  
 
-📫 gfranjaferreira&#64;gmail&#46;com
-
-💡 *Feel free to explore some of my projects below!*
+💡 Explore my pinned projects to see what I’ve been building.
